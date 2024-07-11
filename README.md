@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lesson Plan</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            font-family: 'Calibri', sans-serif;
-            font-size: 26pt;
-        }
-        h2, h3 {
-            font-family: 'Century Gothic', sans-serif;
-            font-size: 14pt;
-            font-weight: bold;
-        }
-        p {
-            font-family: 'Verdana', sans-serif;
-            font-size: 12pt;
-        }
-    </style>
-</head>
-<body>
+<link rel="stylesheet" href="CSS-Lesson-Plan">
 
 <h1>Lesson Title</h1>
 
