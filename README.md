@@ -1,49 +1,52 @@
-# ashleekolar.github.io
-# Lesson Title
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson Plan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-family: 'Calibri', sans-serif;
+            font-size: 26pt;
+        }
+        h2, h3 {
+            font-family: 'Century Gothic', sans-serif;
+            font-size: 14pt;
+            font-weight: bold;
+        }
+        p {
+            font-family: 'Verdana', sans-serif;
+            font-size: 12pt;
+        }
+    </style>
+</head>
+<body>
 
-**Lesson Description:**  
-This is a general description of the lesson that provides an overview of the topics included in the lesson along with an indication of the depth of coverage. It should be 3-5 sentences long.
+<h1>Lesson Title</h1>
 
-**Prerequisite Knowledge:**  
-These are statements of what students are expected to know or be able to do in order to start this lesson.
+<h2>Lesson Description:</h2> 
+<p>This is a general description of the lesson that provides an overview of the topics included in the lesson along with an indication of the depth of coverage. It should be 3-5 sentences long.</p>
 
-**Length of Completion:**  
-What is the length of the lesson?
+<h3>Prerequisite Knowledge:</h3>
+<p>These are statements of what students are expected to know or be able to do in order to start this lesson.</p>
 
-**Level of Instruction:**  
-Is this lesson intended for high school, middle school, or elementary school? Is the lesson appropriate for advanced, intermediate, or beginner learners?
+<h3>Length of Completion:</h3>
+<p>What is the length of the lesson?</p>
 
-**Applicable First Principles &/or Concepts:**  
-Please select the Principles or Concepts covered in this lesson.
+<h3>Level of Instruction:</h3>
+<p>Is this lesson intended for high school, middle school, or elementary school? Is the lesson appropriate for advanced, intermediate, or beginner learners?</p>
 
-**GenCyber First Principles**  
-- Domain Separation
-- Process Isolation
-- Resource Encapsulation
-- Modularity
-- Least Privilege
-- Abstraction
-- Data Hiding
-- Layering
-- Simplicity
-- Minimization
+<h3>Applicable First Principles &/or Concepts:</h3>
+<p>Please select the Principles or Concepts covered in this lesson.</p>
 
-**GenCyber Cybersecurity Concepts**  
-- Defense in Depth
-- Confidentiality
-- Integrity
-- Availability
-- Think Like an Adversary
-- Keep it Simple
-
-**Resources that are Needed:**  
-Specify the resources needed to complete the lesson. This includes a list of PowerPoint slides, data files, supplementary reading, assessment activities, videos, etc. needed for this lesson. Please properly cite and acknowledge sources.
-
-**Accommodations Needed:**  
-Specify any accommodations needed to complete the lesson. Examples include closed captioning for hearing-impaired students, accommodations for students with disabilities, etc. (Please note all products – i.e. videos - created in support of the GenCyber grant must have closed captioning. If the lesson is directing the user to an already existing video, please note if the video is available with closed captioning.)
-
-**Learning Outcomes**
-
-**LESSON LEARNING OUTCOMES**  
-- The learning outcomes should be statements of what students should be able to DO at the end of instruction. Use outcome examples such as Design/Built, Test/Defend, Compare/Contrast, Apply/Use, Explain/Discuss, Identify/Describe
-- It would be typical for a lesson to have
+<h4>GenCyber First Principles</h4>
+<ul>
+    <li>Domain Separation</li>
+    <li>Process Isolation</li>
+    <li>Resource Encapsulation</li>
+    <li>Modularity</li>
+    <li>Least Privilege</li>
+    <li
